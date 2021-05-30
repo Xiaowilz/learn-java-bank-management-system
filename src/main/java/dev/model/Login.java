@@ -1,4 +1,4 @@
-package dev.Model;
+package dev.model;
 
 public class Login {
     String username;

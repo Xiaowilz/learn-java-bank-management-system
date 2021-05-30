@@ -1,12 +1,11 @@
 package dev.dao;
 
-import dev.Model.BankBranch;
+import dev.model.BankBranch;
 import dev.util.DatabaseConnection;
 
 import java.sql.*;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
-import java.util.Date;
 import java.util.List;
 
 public class BankBranchDaoImplementation implements BankBranchDao{

@@ -1,4 +1,4 @@
-package dev.Model;
+package dev.model;
 
 public class BankBranch {
     private int id;

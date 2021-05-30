@@ -1,6 +1,6 @@
 package dev.dao;
 
-import dev.Model.BankBranch;
+import dev.model.BankBranch;
 
 import java.util.List;
 

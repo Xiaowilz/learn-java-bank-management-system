@@ -1,9 +1,8 @@
 package dev.controller;
 
-import dev.Model.BankBranch;
+import dev.model.BankBranch;
 import dev.dao.BankBranchDaoImplementation;
 
-import java.util.List;
 import java.util.Scanner;
 
 public class BankBranchController {
