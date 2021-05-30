@@ -1,0 +1,6 @@
+dao\LoginDao.class
+dev\App.class
+dao\LoginDaoImplementation.class
+util\DatabaseConnection.class
+Model\Login.class
+util\Hashing.class
